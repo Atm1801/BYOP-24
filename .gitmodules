@@ -1,0 +1,12 @@
+[submodule "survAIval_Ojasva"]
+	path = survAIval_Ojasva
+	url = https://github.com/ojasvanema/survAIval-DSG-project
+[submodule "Dynamic_Adaptation_Advika"]
+	path = Dynamic_Adaptation_Advika
+	url = https://github.com/advikasinha/BYOP_24_END
+[submodule "Cryner_Simardeep"]
+	path = Cryner_Simardeep
+	url = https://github.com/heyysimarr/byopcryner
+[submodule "Deciphering_Anime_Posters_Abhishek"]
+	path = Deciphering_Anime_Posters_Abhishek
+	url = https://github.com/AbhishekPanwarr/Deciphering_Anime_Poster
